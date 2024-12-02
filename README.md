@@ -4,7 +4,7 @@
 #   3 The tsc compiler
 #   4 Basic Types in TypeScript  
 #   5 The tsconfig file
-#   6 Interfaces
-#   7 Types
-#   8
+#   6 Interfaces=>important
+#   7 Type=>important
+#   8 Array in TS
 #
